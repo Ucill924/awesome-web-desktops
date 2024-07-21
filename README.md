@@ -177,5 +177,5 @@ A snapshot of the Web Desktop version should still be available on [archive.org]
 Simone `syx` Marzulli & [contributors](https://github.com/syxanash/awesome-web-desktops/graphs/contributors)
 
 ## License
-
+#
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/) ![88x31](88x31.gif)
